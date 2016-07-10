@@ -1,0 +1,21 @@
+body {
+  color: white;
+  background-color: black;
+}
+
+.clock {
+  font-family: monospace;
+  font-size: 3em;
+}
+
+#plus, #minus, #break-plus, #break-minus {
+  margin-top: -18px;
+}
+
+.up-shift {
+  margin-top: -10px;
+}
+
+.down-shift {
+  margin-bottom: -10px;
+}
